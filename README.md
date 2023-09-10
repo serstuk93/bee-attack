@@ -1,6 +1,9 @@
 # Bee Attack!
 
-![Screenshot](https://raw.github.com/serstuk93//bee-attack/master/example.gif)
+<p align="center">
+  <img src="https://raw.github.com/serstuk93//bee-attack/master/example.gif" alt="Gameplay" width="400" />
+</p>
+
 
 ## Overview
 Bee Attack is an interactive and engaging game that uses real-time video processing to create a challenging and fun experience. Player have to fend off bees by using their hand movements, making it not just a visual treat but also physically interactive.
