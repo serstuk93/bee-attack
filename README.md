@@ -6,7 +6,7 @@
 
 
 ## Overview
-Bee Attack is an interactive and engaging game that uses real-time video processing to create a challenging and fun experience. Player have to fend off bees by using their hand movements, making it not just a visual treat but also physically interactive.
+Bee Attack is an interactive and engaging game that uses real-time video processing to create a challenging and fun experience. Player have to fend off bees by using their hand movements, making it not just a visual treat but also physically interactive. The game requires *Opencv* and *Pygame* libraries. 
 
 ## Features
 
@@ -18,7 +18,7 @@ Bee Attack is an interactive and engaging game that uses real-time video process
 
 ## Installation
 
-1. Ensure you have Python and necessary libraries installed.
+1. Ensure you have Python 3.10(or newer) and necessary libraries installed.
 2. Clone this repository:
 
     ```bash
@@ -37,11 +37,12 @@ Bee Attack is an interactive and engaging game that uses real-time video process
     ```
 
 ## Dependencies
-To install all dependencies at once:
+1. All required dependencies are listed in *requirements.txt*
+1. Install all dependencies at once:
 
-```bash
-    pip install -r requirements.txt
-```
+    ```bash
+        pip install -r requirements.txt
+    ```
 ## How to Play
 
 1. Stand in front of your webcam with a neutral background.
